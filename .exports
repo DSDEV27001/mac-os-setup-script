@@ -1,6 +1,6 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 
-# Make vim the default editor.
+# Make atom the default editor.
 export EDITOR='"atom -nw';
 
 # Enable persistent REPL history for `node`.
