@@ -1,5 +1,4 @@
-# Michael's mac OS set-up
-Ported from  [Mathias’s dotfiles](https://medium.com/@fesja/setting-up-your-new-macbook-via-scripts-a97f82e28be5)
+Adapted from  [Mathias’s dotfiles](https://medium.com/@fesja/setting-up-your-new-macbook-via-scripts-a97f82e28be5)
 
 ![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
 
