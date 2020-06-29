@@ -7,7 +7,7 @@ brew install homebrew/completions/docker-completion
 brew install homebrew/completions/docker-compose-completion
 
 brew tap caskroom/cask
-brew cash install little-snitch
+brew cask install little-snitch
 brew cask install atom
 # brew cask install dashlane
 # brew cask install data-rescue
